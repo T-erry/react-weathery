@@ -37,6 +37,12 @@ function Form() {
         <input type="submit" value="search" />
       </form>
       <div>{weather}</div>
+      <div>
+        <a href="https://github.com/T-erry/react-weathery.git">
+          Open-Source code,
+        </a>
+        by Terry Wachuka
+      </div>
     </div>
   );
 }
